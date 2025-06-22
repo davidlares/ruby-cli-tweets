@@ -12,7 +12,7 @@
  ```
 
  ## Créditos
- - [David Lares](https://twitter.com/davidlares3)
+ - [David Lares](https://davidlares.com)
 
  ## Licencia
 
