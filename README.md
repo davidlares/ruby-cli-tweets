@@ -1,18 +1,17 @@
-## DavidTweets
+## Tweets
 
- DavidTweets es un pequeño script para hacer tweets desde CLI corriendo un programa en Ruby. Workshop del Curso de Ruby básico de Platzi
+DavidTweets is a small script for tweeting from the CLI by running a Ruby program. Platzi's Basic Ruby Course Workshop
 
- ## Uso
+## Usage
 
- Debes de tener una version de Ruby 2 o superior y correr el comando en el CLI
+You must have Ruby version 2 or higher and run the command in the CLI.
 
- ```
- ruby tweets.rb
+```
+ruby tweets.rb
+```
 
- ```
+## Credits
+[David Lares S](https://davidlares.com)
 
-## Créditos
-[David E Lares S](https://davidlares.com)
-
-## Licencia
+## License
 [MIT](https://opensource.org/licenses/MIT)
