@@ -1,6 +1,6 @@
 ## Tweets
 
-DavidTweets is a small script for tweeting from the CLI by running a Ruby program. Platzi's Basic Ruby Course Workshop
+This is a small script for tweeting from the CLI by running a Ruby program. Platzi's Basic Ruby Course Workshop
 
 ## Usage
 
